@@ -1,5 +1,7 @@
 # Errbot Slack
 
+[![Docker Build](https://img.shields.io/docker/build/samueldg/errbot-slack.svg)](https://hub.docker.com/r/samueldg/errbot-slack/builds/)
+
 Run [Errbot](http://errbot.io/en/latest/) with a Slack backend, in Docker.
 
 ## Setup
