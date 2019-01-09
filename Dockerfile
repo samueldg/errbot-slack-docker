@@ -1,4 +1,4 @@
-FROM python:3.6.4-slim
+FROM python:3.7.2-slim
 
 MAINTAINER Samuel Dion-Girardeau <samuel.diongirardeau@gmail.com>
 
