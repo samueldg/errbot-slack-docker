@@ -45,6 +45,7 @@ Then run the Docker container:
 ```sh
 docker run \
     -d \
+    --restart=always \
     --name errbot \
     -v "$PWD/data:/errbot/data" \
     -v "$PWD/plugins:/errbot/plugins" \
